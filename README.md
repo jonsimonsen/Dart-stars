@@ -1,3 +1,12 @@
+# Project info
+
+This is a web version of the Dart-stats project.  
+The structure is based on this repo:  
+
+https://github.com/ramsalt/drupal-project
+
+It includes support for Composer and Wodby. A copy of that README follows.  
+
 # Composer template for Drupal 8 projects
 
 [![Build Status](https://api.travis-ci.org/ramsalt/drupal-project.svg?branch=8.x)](https://travis-ci.org/ramsalt/drupal-project)
